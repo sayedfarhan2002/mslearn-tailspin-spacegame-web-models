@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sayedfarhan2002/Space%20Game%20-%20web%20-%20Dependencies/_apis/build/status/sayedfarhan2002.mslearn-tailspin-spacegame-web-models?branchName=master)](https://dev.azure.com/sayedfarhan2002/Space%20Game%20-%20web%20-%20Dependencies/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
